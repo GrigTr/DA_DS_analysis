@@ -10,6 +10,8 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500"/> <img src="https://img.shields.io/badge/requests-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&color=%23c9e4fb"/>
+
+**Библиотеки визуализации:**
 - **matplotlib**
 - **seaborn**
 
