@@ -15,9 +15,9 @@
 - **matplotlib**
 - **seaborn**
 
-## Дашборд
+## Ссылки
 
-<a src='https://datalens.yandex/w454gxaukjzej'>Ссылка на дашборд</a>
+<a src='https://datalens.yandex/w454gxaukjzej'>Дашборд-презентация</a>
 
 ## Общий вывод
 
