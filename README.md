@@ -17,7 +17,7 @@
 
 ## Ссылки
 
-<a src='https://datalens.yandex/w454gxaukjzej'>Дашборд-презентация</a>
+<a href='https://datalens.yandex/w454gxaukjzej'>Дашборд-презентация</a>
 
 ## Общий вывод
 
